@@ -5,6 +5,13 @@ I am a Nanotechnology Engineering Student at the University of Waterloo. While I
 
 I tend to spend a lot of my free time coding. Like a lot a lot.
 
+# Organization
+During my e-COOP I started my business as a Game Dev Studio called NanoDNA Studios.
+
+2 years beforehand I have started developping apps for publishing and I have now decided to bundle a lot of my sharable apps, projects and code under the business.
+
+Code from any of my major Apps and Projects can be accessed through the Organization [NanoDNA Studios](https://github.com/Nano-DNA-Studios).
+
 # Noteworthy Projects
 While it is hard for me to pick some of my favourite projects since a lot of them would consider great and defining an era in my programming growth, if I had to narrow down a list of top 5 they would be as Follows
 
@@ -40,11 +47,6 @@ https://github.com/user-attachments/assets/cd8de925-6cb6-490f-9524-897f69fc6d7a
 
 # Contact
 You can reach me through my school email at a3dufres@uwaterloo.ca, or through my personal at Mr.DNAlex.2003@gmail.com
-
-# Organization
-For one of my COOPs I did a e-COOP program where I got to start a business for my credit. During this time I got to teach BETS Students, and create a Phone game on the Apple App Store and Google Play Store.
-
-All code and Apps can be viewed and accessed through my organization [NanoDNA Studios](https://github.com/Nano-DNA-Studios).
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MrDNAlex)
 
