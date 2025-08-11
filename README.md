@@ -5,6 +5,7 @@ I am a Nanotechnology Engineering Student at the University of Waterloo. While I
 
 I tend to spend a lot of my free time coding. Like a lot a lot.
 
+
 # Organization
 During my e-COOP I started my business as a Game Dev Studio called NanoDNA Studios.
 
