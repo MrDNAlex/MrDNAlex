@@ -1,57 +1,19 @@
-# Intro
-Hello! My name is Alexandre Dufresne-Nappert, but I often go by MrDNAlex online.
+Hello! I'm Alexandre Dufresne-Nappert, but I often go as Alex or MrDNAlex online. I study Nanotechnology Engineering at the University of Waterloo and am in the Formula Nano club giving me broad opportunities and experiences in chemistry, electronics, lithography, programming, simulations, biology and quantum physics with a focus on the atomic scale. Through my COOPs and personal projects I have experience working in engineering, programming and other technologically reliant fields, which allow me to learn and explore programming, automation and simulation topics all the time.
 
-I am a Nanotechnology Engineering Student at the University of Waterloo. While I study in this engineering program, I have a huge interest in programming.
+- I study at the University of Waterloo.
+- I'm working on a solar power boosting polymer film and automation projects.
+- I'm learning about MEMS, lithography, programming, automation and simulations.
+- Ask me about games, automation or nanotech!
+- Reach me through [a3dufres@uwaterloo.ca](mailto:a3dufres@uwaterloo.ca).
+- Fun fact : I'm fluently bilingual in both French and English.
 
-I tend to spend a lot of my free time coding. Like a lot a lot.
+I started programming 10 years ago in my high school robotics club using C for Vex IQ, since then I've learnt many languages and tech stacks through personal projects and work experiences. I primarily program in C# or TypeScript and use .NET, Unity, Docker, CUDA and the Discord API as my primary technologies for personal projects or work experiences.
 
-
-# Organization
-During my e-COOP I started my business as a Game Dev Studio called NanoDNA Studios.
-
-2 years beforehand I have started developping apps for publishing and I have now decided to bundle a lot of my sharable apps, projects and code under the business.
-
-Code from any of my major Apps and Projects can be accessed through the Organization [NanoDNA Studios](https://github.com/Nano-DNA-Studios).
-
-# Noteworthy Projects
-While it is hard for me to pick some of my favourite projects since a lot of them would consider great and defining an era in my programming growth, if I had to narrow down a list of top 5 they would be as Follows
-
-## [Neural Network Experiments](https://github.com/Nano-DNA-Studios/NeuralNetworkExperiments) · [Google Play](https://play.google.com/store/apps/details?id=com.NanoDNA.NeuralNetworkExperiments&pcampaignid=web_share) · [App Store](https://apps.apple.com/ca/app/neural-network-experiments/id6447320657) · (Unity / C# / HLSL (High Level Shader Language)
-
-❖ Simple app displaying my neural networks. Uses C# Neural Network Library I developed.
-
-![image](https://github.com/user-attachments/assets/a0212c54-9529-4e4a-9beb-1a195dca528b)
-
-![image](https://github.com/user-attachments/assets/b7a29557-b83d-4287-8bde-c5525cb6f061)
-
-## [Discorca](https://github.com/Nano-DNA-Studios/Discorca) · ([DNA-Discord-Framework](https://github.com/Nano-DNA-Studios/DNA-Discord-Framework) / Typescript, Docker, SSH)
-
-❖ Discord Bot dispatching Quantum Chemistry Calculations on Server. Uses Discord Bot Framework I developed.
-
-![image](https://github.com/user-attachments/assets/10a0b4ae-7a48-4213-b8c3-acfb2eb21a5d)
-
-## [RocketLeagueReplayParserCLI](https://github.com/Nano-DNA-Studios/RocketLeagueReplayParserCLI) · [Nuget](https://www.nuget.org/profiles/MrDNA) · ([DNA-CLI-Framework](https://github.com/Nano-DNA-Studios/DNA-CLI-Framework) / C#)
-
-❖ Extracts info from Rocket League replay files. Used for game analysis. Uses DNA-CLI-Framework I developed.
-
-![image](https://github.com/user-attachments/assets/85b6fcae-fc14-4ced-b788-eef59bd4cd59)
-
-## [ASCII-DONUT-CUDA](https://github.com/Nano-DNA-Studios/ASCII-Donut-CUDA) · (C++ , CUDA)
-
-❖ Third iteration of my implementation of the popular ASCII Donut Project. Renders the Donut entirely on the GPU using C++ and CUDA in order to maximize render speed.
-
-https://github.com/user-attachments/assets/cd8de925-6cb6-490f-9524-897f69fc6d7a
-
-## [QChem](https://github.com/UWFormulaN/qchem)  · (Python, Docker)
-
-❖ A Python library built and designed by and for the UW Formula Nano Desgn team. Allows users to use Python to run, analyze and interact with the Orca Quantum Chemistry Software and contribute to Formula Nano Goals.
-
-# Contact
-You can reach me through my school email at a3dufres@uwaterloo.ca, or through my personal at Mr.DNAlex.2003@gmail.com
-
-![Profile Views](https://komarev.com/ghpvc/?username=MrDNAlex)
-
-<!---
-MrDNAlex/MrDNAlex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+In 2023, I got the opportunity to start a business through the Entrepreneurship-COOP program at the University of Waterloo, since then I've programed and published my projects through the Nano-DNA-Studios GitHub organization. The projects I am most proud of are hosted there such as :
+- [GitHubSelfRunner](https://github.com/Nano-DNA-Studios/GitHubSelfRunner) : My self hosted alternative to GitHub Actions.
+- Audio Visualizer Tool : CUDA/C++ tool for creating "Monstercat style" audio visualized music videos.
+- [Class Backup Website](https://github.com/Nano-DNA-Studios/Class-Backup-Website) : Self hosted website storing class content backups.
+- Discord Bots ([Discorca](https://github.com/Nano-DNA-Studios/Class-Backup-Website), [Factorio-Server-Bot](https://github.com/Nano-DNA-Studios/Factorio-Server-Bot), [Palworld-Server-Bot](https://github.com/Nano-DNA-Studios/Palworld-Server-Bot))
+- [RocketLeagueReplayParser](https://github.com/Nano-DNA-Studios/RocketLeagueReplayParserCLI) : CLI tool that can extract info from Rocket League replays for data/game analysis.
+- Mobile Apps (IOS and Android) ([Neural Network Experiments](https://github.com/Nano-DNA-Studios/NeuralNetworkExperiments), [Music App](https://github.com/Nano-DNA-Studios/Music_App), [Wordle Cheater](https://github.com/Nano-DNA-Studios/OrdleCheater))
+- And many more projects, games and libraries.
