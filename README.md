@@ -12,7 +12,7 @@ I started programming 10 years ago in my high school robotics club using C for V
 In 2023, I got the opportunity to start a business through the Entrepreneurship-COOP program at the University of Waterloo, since then I've programed and published my projects through the Nano-DNA-Studios GitHub organization. The projects I am most proud of are hosted there such as :
 - [GitHubSelfRunner](https://github.com/Nano-DNA-Studios/GitHubSelfRunner) : My self hosted alternative to GitHub Actions.
 - Audio Visualizer Tool : CUDA/C++ tool for creating "Monstercat style" audio visualized music videos.
-- [Class Backup Website](https://github.com/Nano-DNA-Studios/Class-Backup-Website) : Self hosted website storing class content backups.
+- [Nano-Backup-Website](https://github.com/Nano-DNA-Studios/Nano-Backup-Website) : Self hosted website in Blazor/.NET/C# hosting Nanotechnology Engineering Class Backups (Old Version : [Class Backup Website](https://github.com/Nano-DNA-Studios/Class-Backup-Website))
 - Discord Bots :
   - [Discorca](https://github.com/Nano-DNA-Studios/Class-Backup-Website) : Discord Bot for Dispatching Orca Quantum Chemistry simualtions and returning reuslts to and from a Hosted Server sidestepping VPN Requirments
   - [Palworld-Server-Bot](https://github.com/Nano-DNA-Studios/Palworld-Server-Bot) : Hosts and Controls a Palworld Server through a Discord Server sidestepping SSH and Linux Server Management aspects
@@ -21,6 +21,7 @@ In 2023, I got the opportunity to start a business through the Entrepreneurship-
 - [FYDP-SunDOG](https://github.com/MrDNAlex/FYDP-SunDOG) : Repository with all Programming related tasks for my FYDP (Fourth Year Design Project) Solar Down Conversion film project
 
 Many of these projects and applications are published as Libraries, Apps and Containers on the following platforms:
+- [GitHub Packages](https://github.com/orgs/Nano-DNA-Studios/packages)
 - [DockerHub](https://hub.docker.com/repositories/mrdnalex)
 - [NuGet](https://www.nuget.org/profiles/MrDNA)
 
@@ -30,4 +31,5 @@ Other projects I've worked on are as follows :
 - Unity Games and Tools ([Fridge Mayhem](https://github.com/VoidBeGone/fridgeMayhem), [XYZCombiner](https://github.com/Nano-DNA-Studios/XYZCombiner), [Nano-Programming-Game](https://github.com/MrDNAlex/NanoDNA-ProgrammingGame))
 - Libraries and Frameworks ([DNA-CLI-Framework](https://github.com/Nano-DNA-Studios/CLIFramework), [DNA-Discord-Framework](https://github.com/Nano-DNA-Studios/DNA-Discord-Framework), [ProcessRunner](https://github.com/Nano-DNA-Studios/ProcessRunner), [GAWC](https://github.com/Nano-DNA-Studios/GAWC), [GitHubManager](https://github.com/Nano-DNA-Studios/GitHubManager), [DockerManager](https://github.com/Nano-DNA-Studios/DockerManager), [FlexUI](https://github.com/MrDNAlex/FlexUI), [Machine Learning Math](https://github.com/MrDNAlex/Machine-Learning-Math-DLL), [SVG-Geometry-Converter](https://github.com/MrDNAlex/SVG-Geometry-Converter), [MolToXYZ](https://github.com/MrDNAlex/MOLToXYZ), [Discorca-Python-Package-Maker](https://github.com/MrDNAlex/Discorca-Python-Package-Maker), [Fourier-Transform](https://github.com/MrDNAlex/Fourier-Transform), [RSC-Data-Extraction](https://github.com/MrDNAlex/RSC-Data-Extraction), [Heat-Transfer-Simulation](https://github.com/MrDNAlex/Heat-Transfer-Simulation))
 - Class Repos ([MSE-240-Data-Structures-&-Algorithms](https://github.com/MrDNAlex/MSE-240-Algorithms-And-Data-Structures), [NE-451-Final-Project-Raytracing](https://github.com/MrDNAlex/NE-451-Final-Project-Raytracing), [NE-451-Simulation-Methods](https://github.com/MrDNAlex/NE-451-Simulation-Methods), [NE-336-Nano-System-Design](https://github.com/MrDNAlex/NE-336-Nano-System-Design), [NE-334-Statistical-Thermodynamics](https://github.com/MrDNAlex/NE-334-Statistical-Thermodynamics), [NE-345-Photonics](https://github.com/MrDNAlex/NE-345-Photonics), [NE-318-Continuum-Machanics](https://github.com/MrDNAlex/Continuum-Mechanics-Scripts-NE-318), [NE-215-Statistics](https://github.com/MrDNAlex/Statistics-Scripts), [NE-111-Intro-to-Programming](https://github.com/MrDNAlex/NE-111-Final-Minesweeper))
+- 
 - And many more projects, games and libraries.
