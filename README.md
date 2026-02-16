@@ -9,7 +9,7 @@ Hello! I'm Alexandre Dufresne-Nappert, but I often go as Alex or MrDNAlex online
 
 I started programming 10 years ago in my high school robotics club using C for Vex IQ, since then I've learnt many languages and tech stacks through personal projects and work experiences. I primarily program in C# or TypeScript and use .NET, Unity, Docker, CUDA and the Discord API as my primary technologies for personal projects or work experiences.
 
-In 2023, I got the opportunity to start a business through the Entrepreneurship-COOP program at the University of Waterloo, since then I've programed and published my projects through the Nano-DNA-Studios GitHub organization. The projects I am most proud of are hosted there such as :
+In 2023, I got the opportunity to start a business through the Entrepreneurship-COOP program at the University of Waterloo, since then I've programed and published my projects through the [Nano-DNA-Studios](https://github.com/Nano-DNA-Studios) GitHub organization. The projects I am most proud of are hosted there such as :
 - [GitHubSelfRunner](https://github.com/Nano-DNA-Studios/GitHubSelfRunner) : My self hosted alternative to GitHub Actions.
 - Audio Visualizer Tool : CUDA/C++ tool for creating "Monstercat style" audio visualized music videos.
 - [Nano-Backup-Website](https://github.com/Nano-DNA-Studios/Nano-Backup-Website) : Self hosted website in Blazor/.NET/C# hosting Nanotechnology Engineering Class Backups (Old Version : [Class Backup Website](https://github.com/Nano-DNA-Studios/Class-Backup-Website))
